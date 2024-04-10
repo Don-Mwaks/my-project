@@ -1,0 +1,8 @@
+1.Service
+-authentication
+-contacts
+-presence
+-notification
+-message history
+-file storage
+-search
